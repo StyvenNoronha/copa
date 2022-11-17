@@ -37,6 +37,7 @@ header {
   background: #1d1c19;
   border-bottom: 2px solid #f7dd43;
   border-radius: 6px;
+  margin: 25px;
 }
 
 .card h2 {
