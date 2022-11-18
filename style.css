@@ -11,7 +11,7 @@ ul {
 
 body {
   background-color: #121214;
-  background-image: url(./assets/ImageFundo.svg);
+  background-image: url(./assets/Image.png);
   background-position-x: center;
   background-position-y: 55%;
 }
@@ -35,7 +35,7 @@ header {
   padding: 32px 23px;
   text-align: center;
   background: #1d1c19;
-  border-bottom: 2px solid #f7dd43;
+  border-bottom: 2px solid #39a9db;
   border-radius: 6px;
   margin: 25px;
 }
@@ -46,12 +46,12 @@ header {
   gap: 16px;
   justify-content: center;
   padding: 8px 16px;
-  border: 1px solid #746615;
+  border: 1px solid #057dcd;
   border-radius: 6px;
   width: fit-content;
   margin-inline: auto;
   margin-bottom: 53px;
-  color: #f7dd43;
+  color: #39a9db;
   width: 270px;
 }
 
